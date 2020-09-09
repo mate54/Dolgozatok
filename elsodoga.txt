@@ -1,0 +1,4 @@
+1. Microsoft Management Console 
+2. időt, nyelvet, helymeghatározás, 
+3. Információkat gyűjt az eszközökről, és a számítógép összes jellemzőjét leírja.
+4. ha elfogyott a memória ezt használja fel.
