@@ -1,0 +1,11 @@
+A
+1. Mi a kölönbség a teli és az üres elem között példával!
+A teli elemnek van záró tag-je az üres elemnek nincs.
+pl: teli: <p> </p>
+    üres: <img/>
+
+2. Sorolj fel három meta elemet!
+<meta charset="UTF-8">
+
+
+3. Emmet utasítás átírása: p>(span{Ez itt egy példa}+span{Ez itt egy példa}+{ az Emmet-ről.})
